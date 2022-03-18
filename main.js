@@ -1,0 +1,5 @@
+holi = "<center style='background-color: lightblue; padding-top:20px;padding-buttom:40px;'><h1 style='font-family:Roboto;'>Happy Holi</h1><br><img src = 'holi.jfif'><br><br><b><p>Holi is a popular ancient Hindu festival, also known as the Festival of Spring, the Festival of Colours or the Festival of Love. The festival celebrates the eternal and divine love of Radha Krishna. It also signifies the triumph of good over evil, as it celebrates the victory of Lord Vishnu as Narasimha Narayana over Hiranyakashipu. It originated and is predominantly celebrated in the Indian subcontinent but has also spread to other regions of Asia and parts of the Western world through the South Asian diaspora.</p></b><br><br><img src='h1.gif'><img style='margin:20px;' src='h2.gif'><img src='h3.jfif'></center>" 
+function change(){
+    document.getElementById("k").style.display="none";
+    document.getElementById("b1").innerHTML = holi;
+}
